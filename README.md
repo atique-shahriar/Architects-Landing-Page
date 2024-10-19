@@ -1,7 +1,7 @@
 <h1>
    Architects Landing Page
 </h1>
-<hr><br>
+<hr>
 <h3> Live Link:
     <a href="https://atiqueshahriarr.github.io/Architects-Landing-Page/">
         Architects Landing Page
