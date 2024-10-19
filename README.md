@@ -6,8 +6,8 @@
     <a href="https://atiqueshahriarr.github.io/Architects-Landing-Page/">
         Architects Landing Page
     </a>
-</h3><br>
-<h3> Tools & Technologies: HTML, CSS</h3><br>
+</h3>
+<h4> Tools & Technologies: HTML, CSS</h3><br>
 
 <h2>Project Demo:</h2>
 
